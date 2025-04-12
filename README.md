@@ -1,5 +1,11 @@
 # 💱 FinanTrack – Simulador de Conversão de Moedas
 
+**Pós-Graduação em Engenharia de Software da PUC-Rio**.
+
+### **Informações do Projeto**
+- **Disciplina:** Arquitetura de Software
+- **Aluno:** Fabio Araújo  
+
 O **FinanTrack** é uma aplicação web que permite simular a conversão de valores em reais (BRL) para moedas estrangeiras como **Dólar (USD)**, **Euro (EUR)** e **Bitcoin (BTC)**. O sistema utiliza **cotações em tempo real** através de uma API externa e permite salvar, editar e excluir simulações realizadas. Também é possível visualizar a evolução das moedas em um **gráfico de histórico de cotações**.
 
 Este repositório representa o **módulo principal** do projeto, contendo o front-end e os arquivos de orquestração `docker-compose.yml` e `docker-compose.override.yml`.
