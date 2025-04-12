@@ -104,8 +104,8 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LIC
 ---
 
 ## **Pós-Graduação em Engenharia de Software da PUC-Rio**.
-Disciplina: **Arquitetura de Software**
-Desenvolvido por **Fábio Araújo**  
+- Disciplina: **Arquitetura de Software**
+- Desenvolvido por **Fábio Araújo**  
 📧 Email: fabiorodrigo.puc@gmail.com
 
 
