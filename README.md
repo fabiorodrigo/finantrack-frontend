@@ -88,26 +88,12 @@ docker-compose up --build
 
 ---
 
-## 🔗 API Utilizada
-
-- [AwesomeAPI - API de Moedas](https://docs.awesomeapi.com.br/api-de-moedas)
-
----
-
 ## 🐳 Serviços e Portas
 
 | Serviço   | Porta local | Descrição                          |
 |-----------|-------------|--------------------------------------|
 | frontend  | `3000`      | Interface web em React               |
 | backend   | `8000`      | API REST com FastAPI + SQLite        |
-
----
-
-## 📸 Imagem da Interface
-
-> Abaixo um exemplo da interface após o carregamento:
-
-![FinanTrack UI](docs/finantrack-preview.png)
 
 ---
 
